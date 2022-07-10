@@ -1,4 +1,4 @@
-# RecoveryInADT
+# Recovery in ADT
 Algorithm of inference and simulation for reliability assessment in ADT with recoverability.
 
 The original paper is:
